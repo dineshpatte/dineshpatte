@@ -8,7 +8,7 @@
 
 🚀 Always excited to turn ideas into beautiful, fast websites!
 
-📫 How to reach me: dineshpatte@gmail.com (or whatever your email/contact you prefer)
+📫 How to reach me: 009pattemdiensh@gmail.com (or whatever your email/contact you prefer)
 
 Languages: JavaScript, HTML5, CSS3
 
