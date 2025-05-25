@@ -1,18 +1,37 @@
-- 👀 I’m interested in Front-End Development, React.js, Web Design, and building smooth user experiences.
+Pattem Guru Dinesh - Full Stack Web Developer
+Hi! I’m Pattem Guru Dinesh, a passionate full stack web developer specializing in building modern, responsive, and user-friendly web applications.
 
-🌱 I’m currently learning Advanced React Patterns, Next.js, and UI/UX best practices.
+Skills & Technologies
+Frontend:
 
-💬 Ask me about React.js, JavaScript, Vite, and building scalable front-end apps.
+React.js (functional components, hooks)
 
-💞️ I’m looking to collaborate on creative web projects, startup ideas, and open-source front-end tools.
+Tailwind CSS (utility-first responsive styling)
 
-🚀 Always excited to turn ideas into beautiful, fast websites!
+React Router for smooth client-side navigation
 
-📫 How to reach me: 009pattemdinesh@gmail.com (or whatever your email/contact you prefer)
+Clean and accessible UI design with attention to UX
 
-Languages: JavaScript, HTML5, CSS3
+Backend:
 
-Libraries/Frameworks: React.js, Vite, Tailwind CSS
+Node.js and Express.js for RESTful API development
 
-Tools: Git, VS Code, Postman, Figma (basic)
+MongoDB for flexible, scalable NoSQL database management
 
+Authentication using JWT and OAuth (where applicable)
+
+Other Tools & Concepts:
+
+JavaScript (ES6+), HTML5, CSS3
+
+State management and local storage for temporary data persistence
+
+Integration of third-party APIs and libraries
+
+Responsive design and mobile-first approach
+
+Version control using Git and GitHub
+
+I focus on writing clean, maintainable code with best practices and building full-featured applications that provide smooth, seamless user experiences.
+
+Feel free to reach out to me via email: 009pattemdinesh@gmail.com
