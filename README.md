@@ -1,64 +1,93 @@
-<p align="center">
- ────────────────────────────
-</p>
+<!-- README.md | Robotic / Terminal Aesthetic (centered, bordered, minimal) -->
 
-<h1 align="center">PATTEM GURU DINESH</h1>
-<h3 align="center">FULL STACK WEB DEVELOPER</h3>
+<div align="center">
+  <pre>
++------------------------------------------------------------+
+|                                                            |
+|                    PATTEM GURU DINESH                      |
+|                 FULL STACK WEB DEVELOPER                   |
+|                                                            |
++------------------------------------------------------------+
+  </pre>
+</div>
 
-<p align="center">
- ────────────────────────────
-</p>
+<div align="center">
+  Hi! I’m <b>Pattem Guru Dinesh</b>, a passionate full stack web developer
+  specializing in building modern, responsive, and user-friendly web applications.
+</div>
 
-<p align="center">
- Hi! I’m <b>Pattem Guru Dinesh</b>, a passionate full stack web developer specializing in <br/>
- building modern, responsive, and user-friendly web applications.
-</p>
+<br/>
 
-<p align="center">
- ────────────────────────────
-</p>
+<div align="center">
+  <pre>
++------------------------ SKILLS & TECHNOLOGIES ------------------------+
+  </pre>
+</div>
 
-<h3 align="center">SKILLS & TECHNOLOGIES</h3>
+<div align="center"><b>Frontend</b></div>
+<div align="center">
+  <code>Next.js (SSR, SSG, API routes)</code> •
+  <code>React.js (functional components, hooks)</code> •
+  <code>TypeScript</code> •
+  <code>Tailwind CSS (utility-first responsive styling)</code> •
+  <code>React Router</code> •
+  <code>Clean & Accessible UI/UX</code>
+</div>
 
-<p align="center"><b>Frontend</b></p>
+<br/>
 
-<p align="center">
- Next.js • React.js • TypeScript • Tailwind CSS • React Router • UI/UX Design
-</p>
+<div align="center"><b>Backend</b></div>
+<div align="center">
+  <code>Node.js</code> •
+  <code>Express.js (RESTful APIs)</code> •
+  <code>MongoDB (NoSQL, scalable)</code> •
+  <code>Authentication (JWT & OAuth)</code>
+</div>
 
-<p align="center"><b>Backend</b></p>
+<br/>
 
-<p align="center">
- Node.js • Express.js • MongoDB • JWT • OAuth
-</p>
+<div align="center"><b>Other Tools & Concepts</b></div>
+<div align="center">
+  <code>JavaScript (ES6+)</code> •
+  <code>HTML5</code> •
+  <code>CSS3</code> •
+  <code>State management & local storage</code> •
+  <code>API integrations</code> •
+  <code>Responsive design (mobile-first)</code> •
+  <code>Git & GitHub</code>
+</div>
 
-<p align="center"><b>Other Tools</b></p>
+<br/>
 
-<p align="center">
- JavaScript (ES6+) • HTML5 • CSS3 • API Integrations • Responsive Design • Git & GitHub
-</p>
+<div align="center">
+  <pre>
++------------------------------ PHILOSOPHY -----------------------------+
+  </pre>
+</div>
 
-<p align="center">
- ────────────────────────────
-</p>
+<div align="center">
+  "Clean. Maintainable. Scalable.<br/>
+  Building applications that feel seamless and effortless."
+</div>
 
-<h3 align="center">PHILOSOPHY</h3>
+<br/>
 
-<p align="center">
- "Clean. Maintainable. Scalable.<br/>
- Building applications that feel seamless and effortless."
-</p>
+<div align="center">
+  <pre>
++------------------------------- CONTACT -------------------------------+
+  </pre>
+</div>
 
-<p align="center">
- ────────────────────────────
-</p>
+<div align="center">
+  <a href="mailto:009pattemdinesh@gmail.com">009pattemdinesh@gmail.com</a>
+</div>
 
-<h3 align="center">CONTACT</h3>
+<br/>
 
-<p align="center">
- 📧 <a href="mailto:009pattemdinesh@gmail.com">009pattemdinesh@gmail.com</a>
-</p>
-
-<p align="center">
- ────────────────────────────
-</p>
+<div align="center">
+  <pre>
++-----------------------------------------------------------------------+
+|                         END OF TRANSMISSION                           |
++-----------------------------------------------------------------------+
+  </pre>
+</div>
