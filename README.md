@@ -1,45 +1,64 @@
-<h1 align="center">Pattem Guru Dinesh</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<p align="center">
+ ────────────────────────────
+</p>
 
----
+<h1 align="center">PATTEM GURU DINESH</h1>
+<h3 align="center">FULL STACK WEB DEVELOPER</h3>
 
-### 👋 About Me  
-Hi, I’m **Pattem Guru Dinesh**, a passionate full stack web developer specializing in building modern, responsive, and user-friendly web applications.  
-I enjoy crafting clean code, designing intuitive interfaces, and creating seamless user experiences.  
+<p align="center">
+ ────────────────────────────
+</p>
 
----
+<p align="center">
+ Hi! I’m <b>Pattem Guru Dinesh</b>, a passionate full stack web developer specializing in <br/>
+ building modern, responsive, and user-friendly web applications.
+</p>
 
-### 🛠 Skills & Technologies  
+<p align="center">
+ ────────────────────────────
+</p>
 
-**Frontend**  
-- Next.js (SSR, SSG, API routes)  
-- React.js (functional components, hooks)  
-- TypeScript  
-- Tailwind CSS (utility-first responsive styling)  
-- React Router  
-- Clean and accessible UI/UX  
+<h3 align="center">SKILLS & TECHNOLOGIES</h3>
 
-**Backend**  
-- Node.js & Express.js (RESTful APIs)  
-- MongoDB (NoSQL, scalable)  
-- Authentication with JWT & OAuth  
+<p align="center"><b>Frontend</b></p>
 
-**Other Tools & Concepts**  
-- JavaScript (ES6+), HTML5, CSS3  
-- State management & local storage  
-- API integrations  
-- Mobile-first responsive design  
-- Git & GitHub version control  
+<p align="center">
+ Next.js • React.js • TypeScript • Tailwind CSS • React Router • UI/UX Design
+</p>
 
----
+<p align="center"><b>Backend</b></p>
 
-### ✨ Philosophy  
-> I believe in writing **clean, maintainable code** and following best practices.  
-> My goal is to build full-featured applications that feel effortless, smooth, and seamless.  
+<p align="center">
+ Node.js • Express.js • MongoDB • JWT • OAuth
+</p>
 
----
+<p align="center"><b>Other Tools</b></p>
 
-### 📫 Reach Me  
-📧 [009pattemdinesh@gmail.com](mailto:009pattemdinesh@gmail.com)  
+<p align="center">
+ JavaScript (ES6+) • HTML5 • CSS3 • API Integrations • Responsive Design • Git & GitHub
+</p>
 
----
+<p align="center">
+ ────────────────────────────
+</p>
+
+<h3 align="center">PHILOSOPHY</h3>
+
+<p align="center">
+ "Clean. Maintainable. Scalable.<br/>
+ Building applications that feel seamless and effortless."
+</p>
+
+<p align="center">
+ ────────────────────────────
+</p>
+
+<h3 align="center">CONTACT</h3>
+
+<p align="center">
+ 📧 <a href="mailto:009pattemdinesh@gmail.com">009pattemdinesh@gmail.com</a>
+</p>
+
+<p align="center">
+ ────────────────────────────
+</p>
