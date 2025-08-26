@@ -1,84 +1,43 @@
-<!-- README.md | Robotic / Terminal Aesthetic -->
+# Pattem Guru Dinesh
 
-<div align="center">
-  <pre>
-+------------------------------------------------------------+
-|                                                            |
-|                    PATTEM GURU DINESH                      |
-|                 FULL STACK WEB DEVELOPER                   |
-|                                                            |
-+------------------------------------------------------------+
-  </pre>
-</div>
+**Full Stack Web Developer**  
+Building clean, scalable, and user-friendly web applications.
 
-<div align="center">
-  Hi! I’m <b>Pattem Guru Dinesh</b>, a full stack web developer  
-  focused on building clean, scalable, and user-friendly applications.
-</div>
+---
 
-<br/>
+## About Me  
+Hi! I’m **Pattem Guru Dinesh**, a passionate full stack developer specializing in modern web technologies.  
+I enjoy creating responsive, maintainable, and performance-driven applications that deliver seamless user experiences.
 
-<div align="center">
-  <pre>
-+------------------------ SKILLS & TECHNOLOGIES ------------------------+
-  </pre>
-</div>
+---
 
-<div align="center"><b>Frontend</b></div>
-<div align="center">
-  <code>Next.js</code> •
-  <code>React.js</code> •
-  <code>TypeScript</code> •
-  <code>Tailwind CSS</code> •
-  <code>React Router</code> •
-  <code>UI/UX Design</code>
-</div>
+## Technical Skills  
 
-<br/>
+**Frontend**  
+React.js, Tailwind CSS, React Router, HTML5, CSS3, Material UI, TypeScript, Next.js  
 
-<div align="center"><b>Backend</b></div>
-<div align="center">
-  <code>Node.js</code> •
-  <code>Express.js</code> •
-  <code>MongoDB</code> •
-  <code>Authentication (JWT / OAuth)</code>
-</div>
+**Backend**  
+Node.js, Express.js, FastAPI, REST APIs, Socket.IO  
 
-<br/>
+**Database**  
+MongoDB, MySQL  
 
-<div align="center"><b>Other Tools</b></div>
-<div align="center">
-  <code>JavaScript (ES6+)</code> •
-  <code>HTML5</code> •
-  <code>CSS3</code> •
-  <code>API Integration</code> •
-  <code>State Management</code> •
-  <code>Git & GitHub</code>
-</div>
+**Programming Languages**  
+JavaScript (ES6+), Python, Java  
 
-<br/>
+**Tools & Others**  
+Git/GitHub, API Integration, State Management, Context API, Agile/Scrum  
 
-<div align="center">
-  <pre>
-+------------------------------ PHILOSOPHY -----------------------------+
-  </pre>
-</div>
+---
 
-<div align="center">
-  "Code should be clean.  
-   Systems should be maintainable.  
-   Applications should be scalable."
-</div>
+## Philosophy  
+*"Code should be clean.  
+Systems should be maintainable.  
+Applications should be scalable."*  
 
-<br/>
+---
 
-<div align="center">
-  <pre>
-+------------------------------- CONTACT -------------------------------+
-  </pre>
-</div>
-
-<div align="center">
-  📧 <a href="mailto:009pattemdinesh@gmail.com">009pattemdinesh@gmail.com</a>  
-  🔗 <a href="https://github.com/dineshpatte">GitHub</a> | <a href="https://linkedin.com/in/pattem-dinesh-44101b342">LinkedIn</a>
-</div>
+## Contact  
+- Email: [009pattemdinesh@gmail.com](mailto:009pattemdinesh@gmail.com)  
+- GitHub: [dineshpatte](https://github.com/dineshpatte)  
+- LinkedIn: [Pattem Guru Dinesh](https://linkedin.com/in/pattem-dinesh-44101b342)  
