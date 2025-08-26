@@ -1,4 +1,4 @@
-<!-- README.md | Robotic / Terminal Aesthetic (centered, bordered, minimal) -->
+<!-- README.md | Robotic / Terminal Aesthetic -->
 
 <div align="center">
   <pre>
@@ -12,8 +12,8 @@
 </div>
 
 <div align="center">
-  Hi! I’m <b>Pattem Guru Dinesh</b>, a passionate full stack web developer
-  specializing in building modern, responsive, and user-friendly web applications.
+  Hi! I’m <b>Pattem Guru Dinesh</b>, a full stack web developer  
+  focused on building clean, scalable, and user-friendly applications.
 </div>
 
 <br/>
@@ -26,12 +26,12 @@
 
 <div align="center"><b>Frontend</b></div>
 <div align="center">
-  <code>Next.js (SSR, SSG, API routes)</code> •
-  <code>React.js (functional components, hooks)</code> •
+  <code>Next.js</code> •
+  <code>React.js</code> •
   <code>TypeScript</code> •
-  <code>Tailwind CSS (utility-first responsive styling)</code> •
+  <code>Tailwind CSS</code> •
   <code>React Router</code> •
-  <code>Clean & Accessible UI/UX</code>
+  <code>UI/UX Design</code>
 </div>
 
 <br/>
@@ -39,21 +39,20 @@
 <div align="center"><b>Backend</b></div>
 <div align="center">
   <code>Node.js</code> •
-  <code>Express.js (RESTful APIs)</code> •
-  <code>MongoDB (NoSQL, scalable)</code> •
-  <code>Authentication (JWT & OAuth)</code>
+  <code>Express.js</code> •
+  <code>MongoDB</code> •
+  <code>Authentication (JWT / OAuth)</code>
 </div>
 
 <br/>
 
-<div align="center"><b>Other Tools & Concepts</b></div>
+<div align="center"><b>Other Tools</b></div>
 <div align="center">
   <code>JavaScript (ES6+)</code> •
   <code>HTML5</code> •
   <code>CSS3</code> •
-  <code>State management & local storage</code> •
-  <code>API integrations</code> •
-  <code>Responsive design (mobile-first)</code> •
+  <code>API Integration</code> •
+  <code>State Management</code> •
   <code>Git & GitHub</code>
 </div>
 
@@ -66,8 +65,9 @@
 </div>
 
 <div align="center">
-  "Clean. Maintainable. Scalable.<br/>
-  Building applications that feel seamless and effortless."
+  "Code should be clean.  
+   Systems should be maintainable.  
+   Applications should be scalable."
 </div>
 
 <br/>
@@ -79,9 +79,6 @@
 </div>
 
 <div align="center">
-  <a href="mailto:009pattemdinesh@gmail.com">009pattemdinesh@gmail.com</a>
+  📧 <a href="mailto:009pattemdinesh@gmail.com">009pattemdinesh@gmail.com</a>  
+  🔗 <a href="https://github.com/dineshpatte">GitHub</a> | <a href="https://linkedin.com/in/pattem-dinesh-44101b342">LinkedIn</a>
 </div>
-
-<br/>
-
-
